@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/775b6b7f-6945-453d-a2b6-95e4440676e0.svg?style=for-the-badge)](https://wakatime.com/@775b6b7f-6945-453d-a2b6-95e4440676e0)
 <!--
 **Iyiola2dev/iyiola2dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
